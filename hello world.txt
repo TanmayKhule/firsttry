@@ -1,4 +1,4 @@
 hello everyone this is the first github trial
 this is the second line i m adding to this text file.
 this is the edit i did in the secondary branch.>>>now meeged into master branch
-github is complicated tanmay
+github is complicated-tanmay.
